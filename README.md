@@ -105,6 +105,7 @@ Here is a list of a few resources that provide Alpha about the EVM:
 * [Noxx](https://noxx.substack.com/)
 * [Degatchi](https://degatchi.com/articles)
 * [Deconstructing Solidity](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
+* [What happens when you send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
 * [Ethereum Beige paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf)
 * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
@@ -120,6 +121,10 @@ The best way to learn advanced topics is to learn from the best. The greatest mi
 * [@VitalikButerin](https://twitter.com/VitalikButerin)
 * [@bytes032](https://twitter.com/bytes032)
 * [@pashovkrum](https://twitter.com/pashovkrum)
+* [@HollaWaldfee100](https://twitter.com/HollaWaldfee100)
+* [@pcaversaccio](https://twitter.com/pcaversaccio)
+* [@tinchoabbate](https://twitter.com/tinchoabbate)
+* [@0xOwenThurm](https://twitter.com/0xOwenThurm)
 * [@0xRajeev](https://twitter.com/0xRajeev)
 * [@StErMi](https://twitter.com/StErMi)
 * [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
