@@ -69,6 +69,7 @@ By far the most complete and high quality tutorial on Solidity development is by
 <br>
 [32 HOURS FULL BLOCKCHAIN DEVELOPMENT COURSE](https://youtu.be/gyMwXuJrbJQ)
 <br>
+He also has a video with detailed guidance on [How to become a Blockchain Engineer](https://youtu.be/e1N4aWIJMN0)
 <br>
 After completing this course you should be able to create any project you can think of. If video tutorials are not your style and you prefer resources similar to crypto zombies then perhaps you can try out [LearnWeb3DAO](https://learnweb3.io/). The Freshmen track is perfect for anyone who has no expereience with blockchain whatsoever. LearnWeb3DAO with a lot of content and is just as good as the course by Patrick Collins.
 <br>
